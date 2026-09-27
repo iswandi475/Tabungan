@@ -1,2 +1,0 @@
-# Tabungan
-Aplikasi tabungan pernikahan 
